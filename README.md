@@ -1,5 +1,5 @@
 # Talkwithme
-A script which gives you the ability to chat with a friend through LAN by using sockets.
+One script, two purposes.
 
 ### Setup guide (server)
 * Run `python2 talkwithme.py`
