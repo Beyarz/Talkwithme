@@ -16,6 +16,3 @@ One script, two purposes.
 * Enter the servers port number
 * Enter your ip address
 * Enter your port number (that is not used)
-
-### Observe
-This script only works on LAN.
