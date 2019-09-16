@@ -5,7 +5,7 @@ One script, two purposes.
 * Run `python2 talkwithme.py`
 * Press 1 then hit enter
 * Enter your private ip address (it will be printed out)
-* Enter any port number (that is not used)
+* Enter any port number (that is not in use)
 * Enter the clients ip address
 * Enter the clients port number
 
@@ -15,4 +15,4 @@ One script, two purposes.
 * Enter the servers ip address
 * Enter the servers port number
 * Enter your ip address
-* Enter your port number (that is not used)
+* Enter your port number (that is not in use)
