@@ -8,7 +8,7 @@
 
 # # # # # #
 # Created November 25th 2017
-# Copyright (c) 2017 Beyar N.
+# Copyright (c) 2017 Beyar.
 # # # #
 
 # # #
